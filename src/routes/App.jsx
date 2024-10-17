@@ -14,6 +14,7 @@ const App = () => {
                 <Layout>
                     <Routes>
                         <Route exact path="/" element={<Home />} />
+                        <Route exact path="/estadisticaproyec/build" element={<Home />} />
                         <Route exact path='/manual' element={<Manual />} />
                         <Route exact path="/media/aritmetica" element={<StatisticsCalculator calculationType="Media Aritmética" />} />
                         <Route exact path="/media/ponderada" element={<StatisticsCalculator calculationType="Media Aritmética Ponderada" />} />

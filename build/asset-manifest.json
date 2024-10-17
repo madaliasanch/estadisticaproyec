@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.8abfec12.js",
-    "static/media/Sanchez.png": "/static/media/Sanchez.c43842c38c6dc1389cd8.png",
-    "static/media/MANUAL DE USUARIO.pdf": "/static/media/MANUAL DE USUARIO.cf4f13570972ef8c4db9.pdf",
-    "static/media/herrera.jpg": "/static/media/herrera.4228d2ed85f88811ff61.jpg",
-    "static/media/Estadísticas.jpg": "/static/media/Estadísticas.e690bf5193e9ee84fa0d.jpg",
-    "static/media/Ciencia-de-Datos.jpeg": "/static/media/Ciencia-de-Datos.de23feff87cb72caa9e2.jpeg",
-    "static/media/beneficios.jpg": "/static/media/beneficios.7f772c6bee4dbfcd15df.jpg",
-    "static/media/tipos_estadistica.png": "/static/media/tipos_estadistica.4543bfccbc3951522daf.png",
-    "index.html": "/index.html",
-    "main.8abfec12.js.map": "/static/js/main.8abfec12.js.map"
+    "main.js": "/estadisticaproyec/build/static/js/main.c609208d.js",
+    "static/media/Sanchez.png": "/estadisticaproyec/build/static/media/Sanchez.c43842c38c6dc1389cd8.png",
+    "static/media/MANUAL DE USUARIO.pdf": "/estadisticaproyec/build/static/media/MANUAL DE USUARIO.cf4f13570972ef8c4db9.pdf",
+    "static/media/herrera.jpg": "/estadisticaproyec/build/static/media/herrera.4228d2ed85f88811ff61.jpg",
+    "static/media/Estadísticas.jpg": "/estadisticaproyec/build/static/media/Estadísticas.e690bf5193e9ee84fa0d.jpg",
+    "static/media/Ciencia-de-Datos.jpeg": "/estadisticaproyec/build/static/media/Ciencia-de-Datos.de23feff87cb72caa9e2.jpeg",
+    "static/media/beneficios.jpg": "/estadisticaproyec/build/static/media/beneficios.7f772c6bee4dbfcd15df.jpg",
+    "static/media/tipos_estadistica.png": "/estadisticaproyec/build/static/media/tipos_estadistica.4543bfccbc3951522daf.png",
+    "index.html": "/estadisticaproyec/build/index.html",
+    "main.c609208d.js.map": "/estadisticaproyec/build/static/js/main.c609208d.js.map"
   },
   "entrypoints": [
-    "static/js/main.8abfec12.js"
+    "static/js/main.c609208d.js"
   ]
 }
